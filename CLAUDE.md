@@ -14,7 +14,10 @@
 - GitHub MCP → 搜轮子、查代码、看 Issue，优先于 WebSearch
 - Playwright MCP → 网页截图验证，优先于 WebFetch 文本描述
 
-## 记忆机制
+## 记忆与备份
+- 每次修改本地 CLAUDE.md 后，自动同步到云端仓库
+- 重要决策写入 claude-memory 仓库的 Issue
 - 记忆仓库: https://github.com/zhouzeyi6/claude-memory
-- 每个项目用 Issue 记录上下文
-- Labels: project / decision / preference / context
+
+## 项目
+- 暂无固定项目，按需创建
